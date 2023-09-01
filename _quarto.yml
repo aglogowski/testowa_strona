@@ -1,8 +1,9 @@
 project:
   type: website
-
+  output-dir: docs
+  
 website:
-  title: "Ogh2023"
+  title: "Testowa Super Strona"
   navbar:
     left:
       - href: index.qmd
